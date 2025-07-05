@@ -27,6 +27,7 @@
 ```
 ├── .gitignore           # Git ignore file for unnecessary files
 ├── README.md            # Project documentation
+├── Screenshot.png       # Working demonstration
 ├── a.out                # Executable file for Linux (compiled)
 ├── blueline.txt         # Contains data for the Blue Line stations
 ├── bluetxt.txt          # Additional blue line station info
